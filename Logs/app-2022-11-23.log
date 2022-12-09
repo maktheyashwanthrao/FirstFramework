@@ -1,0 +1,6 @@
+[INFO ] 2022-11-23 16:07:17.360 [main] LogInPageTest - this is info
+[ERROR] 2022-11-23 16:07:17.363 [main] LogInPageTest - this is error
+[FATAL] 2022-11-23 16:07:17.363 [main] LogInPageTest - this is fatal
+[WARN ] 2022-11-23 16:07:17.363 [main] LogInPageTest - this is warn
+[INFO ] 2022-11-23 16:07:17.435 [main] LogInPageTest - entered password
+[INFO ] 2022-11-23 16:07:25.753 [main] LogInPageTest - clicked on login button
